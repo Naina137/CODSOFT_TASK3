@@ -48,7 +48,8 @@ CODSOFT_TASK3/
 ```
 # Author
 Naina Gupta 
-B.Tech in Computer Science and Engineering (Data Science)  
-AMC Engineering College, Bengaluru
-Karnataka, India
+B.Tech in Computer Science and
+Engineering (Data Science)  
+AMC Engineering College
+Bengaluru,Karnataka, India
 
